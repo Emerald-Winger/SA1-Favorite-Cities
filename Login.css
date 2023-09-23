@@ -1,0 +1,12 @@
+body{
+    padding-left: 35%;
+    padding-top: 10%;
+}
+
+fieldset{
+    height:250px;
+    width:350px;
+    vertical-align: middle;
+    padding-top: 10%;
+    padding-left: 5%;
+}

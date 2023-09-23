@@ -1,0 +1,18 @@
+fieldset{
+    width:1000px;
+    background-color:silver;
+    
+}
+body{
+    align-items:center;
+    background-color:white;
+    padding-left:235px
+}
+h2{
+    align-self:center;
+    padding-left:450px;
+    padding-top:50px;
+}
+.Pune:hover{
+    transition: 1.5;
+}
